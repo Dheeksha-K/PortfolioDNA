@@ -1,0 +1,3 @@
+- [Tailwind v4 + Vite setup](tailwind-v4-vite.md) — v4 uses @tailwindcss/vite plugin + @theme in CSS; no tailwind.config.js or postcss.config needed
+- [lucide-react brand icons removed](lucide-react-icons.md) — Github/Linkedin/Twitter icons dropped in v1.x; use Code2/Briefcase/AtSign as substitutes
+- [Monorepo from root node_modules](monorepo-root-deps.md) — installLanguagePackages puts all deps in root; run tsx/vite directly via npm scripts, not via --prefix
